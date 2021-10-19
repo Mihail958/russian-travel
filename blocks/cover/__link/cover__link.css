@@ -8,6 +8,7 @@
     text-decoration: none;
     background-image: url(../../../images/cover__background.png);
     background-size: cover;
+    background-position: center;
 }
 
 .cover__link:before {
